@@ -1,7 +1,7 @@
 # TPAC 2026 - Breakout sessions
 This repo is for the W3C community to propose and organize breakout sessions for [TPAC 2026](https://www.w3.org/news-events/tpac/2026/), which takes place 26-30 October 2026 in Dublin, Ireland. 
 
-Around 19 October we will add the [schedule of breakout sessions](https://www.w3.org/calendar/tpac2026/breakout-sessions/) for Monday, Tuesday, and Wednesday to the [TPAC calendar](https://www.w3.org/calendar/tpac2026/). Starting 29 October we will add breakout sessions proposed during TPAC to Thursday and Friday slots.
+Around 19 October we will add the [schedule of breakout sessions](https://www.w3.org/calendar/tpac2026/breakout-sessions/) based on proposals received by 8 October to the [TPAC calendar](https://www.w3.org/calendar/tpac2026/). Starting 29 October we will add breakout sessions proposed during TPAC to the calendar.
 
 ## Breakout sessions
 
@@ -28,5 +28,5 @@ There is no need to leave instructions for meeting planners on those points.
 
 ## Deadlines
 
-* **8 October**, for sessions that will be scheduled in advance of TPAC. Session proposals received on or before 8&nbsp;October will, in general, be allocated to the breakout slots on Monday, Tuesday, and Wednesday. We urge participants to propose breakout sessions by 8&nbsp;October so that the meeting planners can work to resolve scheduling conflicts. On 13&nbsp;October we expect to announce the breakout schedule for the first three days of the week.
+* **8 October**, for sessions that will be scheduled in advance of TPAC. Session proposals received on or before 8&nbsp;October will, in general, be allocated to the breakout slots on Monday, Tuesday, and Wednesday. We urge participants to propose breakout sessions by 8&nbsp;October so that the meeting planners can work to resolve scheduling conflicts. On 13&nbsp;October we expect to announce a draft schedule for meeting proponents. On 19&nbsp; we expect to announce the breakout schedule to registrants.
 * **29 October** noon local time, for sessions proposed once TPAC is underway.  We will, in general, allocate those sessions to the Thursday and Friday breakout slots. We will allocate the sessions to that slot as we receive them. We do not expect to send a separate announcement of the Thursday and Friday breakout sessions.

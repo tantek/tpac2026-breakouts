@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "tpac-breakouts": "github:w3c/tpac-breakouts"
+  },
+  "allowScripts": {
+    "puppeteer": true,
+    "tpac-breakouts@0.9.0": true
   }
 }
